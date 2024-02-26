@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState } from "react";
 import confetti from "canvas-confetti";
 import * as icons from "react-icons/gi";
